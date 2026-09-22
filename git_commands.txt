@@ -6,3 +6,9 @@ git log - Used to get the review of our commits done till the time.
 git log --oneline - Used to get the log deatils in one line.
 git config --global user.name "Atharv" - Used to set user name .
 git config --global user.email "atharv@athcode.com" - Used to set email. 
+.gitignore - In this file we add the directories which we dont want to commit to git 
+.gitkeep - usually git dont track empty folders so if we want to track it we have to add .gitkeep file in that folders
+git branch branch_name - Used to create a branch 
+git branch - uSed to check In which branch we are currently 
+git switch branch_name - Used to switch betweeen branches
+git merge branch_name - Used to merge the branch with master branch
