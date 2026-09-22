@@ -12,3 +12,4 @@ git branch branch_name - Used to create a branch
 git branch - uSed to check In which branch we are currently 
 git switch branch_name - Used to switch betweeen branches
 git merge branch_name - Used to merge the branch with master branch
+git branch -d branch_name - used to delete a branch
