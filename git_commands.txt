@@ -1,0 +1,8 @@
+git init - To intialize git repository.
+git status - To chech the status of folders and files whether they are untracked, in the staging area or not commited yet.
+git add - This command is used to add the untracked files and folders to the staging area.
+git commit -m "Message" - Used to push the files from satging area to git.
+git log - Used to get the review of our commits done till the time.
+git log --oneline - Used to get the log deatils in one line.
+git config --global user.name "Atharv" - Used to set user name .
+git config --global user.email "atharv@athcode.com" - Used to set email. 
