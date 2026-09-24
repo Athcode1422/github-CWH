@@ -14,3 +14,8 @@ git switch branch_name - Used to switch betweeen branches
 git merge branch_name - Used to merge the branch with master branch
 git branch -d branch_name - used to delete a branch
 git switch -c branch_name - Used to create and switch into that branch
+git stash - Used to stash the current changes
+git stash pop - Uded to get back the stashed changes
+git tag - Used to get the tag 
+git tag -a tag_name -m "tag_msg" - Used to add a annoted tag
+git tag tag_name - Used to add lighweight tag
